@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/pranav080506/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranav080506/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
