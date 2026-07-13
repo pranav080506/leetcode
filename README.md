@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
 | [0162-find-peak-element](https://github.com/pranav080506/leetcode/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pranav080506/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/pranav080506/leetcode/tree/master/0162-find-peak-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
