@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/pranav080506/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/pranav080506/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pranav080506/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/pranav080506/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/pranav080506/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pranav080506/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/pranav080506/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
