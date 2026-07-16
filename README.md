@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pranav080506/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pranav080506/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
