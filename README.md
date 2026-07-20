@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/pranav080506/leetcode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/pranav080506/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pranav080506/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/pranav080506/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Counting
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranav080506/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/pranav080506/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
