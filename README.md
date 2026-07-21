@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pranav080506/leetcode/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/pranav080506/leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/pranav080506/leetcode/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pranav080506/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pranav080506/leetcode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/pranav080506/leetcode/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
