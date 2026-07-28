@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pranav080506/leetcode/tree/master/0016-3sum-closest) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranav080506/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranav080506/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/pranav080506/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/pranav080506/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/pranav080506/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/pranav080506/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/pranav080506/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav080506/leetcode/tree/master/0551-student-attendance-record-i) |
