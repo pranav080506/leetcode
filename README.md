@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/pranav080506/leetcode/tree/master/3731-find-missing-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pranav080506/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pranav080506/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
