@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranav080506/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranav080506/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/pranav080506/leetcode/tree/master/3731-find-missing-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pranav080506/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranav080506/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/pranav080506/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/pranav080506/leetcode/tree/master/2235-add-two-integers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranav080506/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranav080506/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranav080506/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav080506/leetcode/tree/master/3536-maximum-product-of-two-digits) |
