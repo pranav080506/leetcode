@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranav080506/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
+| [3024-type-of-triangle](https://github.com/pranav080506/leetcode/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/pranav080506/leetcode/tree/master/3731-find-missing-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pranav080506/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav080506/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/pranav080506/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav080506/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3024-type-of-triangle](https://github.com/pranav080506/leetcode/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav080506/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pranav080506/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/pranav080506/leetcode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranav080506/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranav080506/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/pranav080506/leetcode/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranav080506/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav080506/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav080506/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pranav080506/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pranav080506/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/pranav080506/leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
