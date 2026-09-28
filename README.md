@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pranav080506/leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/pranav080506/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/pranav080506/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pranav080506/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav080506/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pranav080506/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pranav080506/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranav080506/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pranav080506/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/pranav080506/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pranav080506/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pranav080506/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/pranav080506/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav080506/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/pranav080506/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/pranav080506/leetcode/tree/master/1051-height-checker) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pranav080506/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pranav080506/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pranav080506/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranav080506/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/pranav080506/leetcode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
