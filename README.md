@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranav080506/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/pranav080506/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/pranav080506/leetcode/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/pranav080506/leetcode/tree/master/0551-student-attendance-record-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pranav080506/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pranav080506/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/pranav080506/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranav080506/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pranav080506/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pranav080506/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Database
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pranav080506/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
