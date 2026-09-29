@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranav080506/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2404-most-frequent-even-element](https://github.com/pranav080506/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pranav080506/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
 | [3024-type-of-triangle](https://github.com/pranav080506/leetcode/tree/master/3024-type-of-triangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/pranav080506/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranav080506/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/pranav080506/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/pranav080506/leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pranav080506/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/pranav080506/leetcode/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pranav080506/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pranav080506/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/pranav080506/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2404-most-frequent-even-element](https://github.com/pranav080506/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Database
 |  |
 | ------- |
