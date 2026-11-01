@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pranav080506/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav080506/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pranav080506/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/pranav080506/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/pranav080506/leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pranav080506/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/pranav080506/leetcode/tree/master/1929-concatenation-of-array) |
@@ -244,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/pranav080506/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/pranav080506/leetcode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/pranav080506/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
