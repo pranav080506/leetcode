@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranav080506/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/pranav080506/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3019-number-of-changing-keys](https://github.com/pranav080506/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pranav080506/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Simulation
 |  |
