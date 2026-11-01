@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pranav080506/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranav080506/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pranav080506/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/pranav080506/leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/pranav080506/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/pranav080506/leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav080506/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/pranav080506/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/pranav080506/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/pranav080506/leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/pranav080506/leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/pranav080506/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pranav080506/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pranav080506/leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/pranav080506/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
